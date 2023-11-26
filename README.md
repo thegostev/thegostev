@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Having years of experience creating products for developers and recent one on supporting community of developers as a Product Manager, I’m excited to replicate these successes with Spotify. Being long-term Spotify user it feels special to be a part of a right company!
+Having years of experience creating products for developers and B2B and B2C ones.
 
 Community building, growing and harnessing is a fantastic job product-wise (in IndyRiot I was a part of community product development). It’s even more exciting if it’s a developers community as it’s something very close to my previous experience:
 
