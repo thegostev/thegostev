@@ -1,19 +1,56 @@
 <img src="https://github-profile-trophy.vercel.app/?username=thegostev&theme=juicyfresh&no-bg=true" />
 
-### Hi there 👋
+Product and growth leader, open-source, open data enthusiast. Over the last 10+ years I launched, managed and grew digital products. Some of them achieved 150 mln. monthly visits and > 1 mln. of active users monthly. Teams led by me launched 5 products. I usually have end-to-end responsibility in high-paced environment. Applying quantitative approach to innovation, experimenting and decision-making. Using Product-Led Growth for making business model scale. As an author published on IEEE, Hacker Noon, Agile Insider, UX Planet.
 
-Having years of experience creating products for developers, B2B and B2C ones.
+Vital statictics:
 
-Community building, growing and harnessing is a fantastic job product-wise (in IndyRiot I was a part of community product development). It’s even more exciting if it’s a developers community as it’s something very close to my previous experience:
+- Highest impact product managed: CKAN powers national data portals around the globe @ CKAN, 2023
+- Most complex product developed: engineering metrics platform for software teams @ QArea, 2021
+- Biggest product launched: online dating platform with 150 mln visits monthly @ LevelUp, 2014
+- Biggest product managed: >100 mln visits monthly for top-5 portals @ CKAN, 2023
+- Smallest team led (full lifecycle): 3 @ Bitok.com, 2016
+- Biggest team led (full lifecycle): 45 @ LevelUp, 2016
+- Product teams managed and developed: 10
+- Successfully built&monetized products: 3
+- Product organizations created: 1
 
-Leading the product for me goes through a process of formulating or evolving product vision that influences product strategy that defines product roadmap. I have experience managing this cycle in full adding GIST framework to combine agile software development, OKR’s and flexibility in target settings.
+Knowhow's. I have expertise in:
 
-Product portfolio management started for me early on, with Warleigh Marketing where it was a portfolio of 4 online dating websites 10 years ago. Recently at Diligences I managed a portfolio of 2 internal and 6 business product (ones with UI). Actually I was managing 3 teams, one of which consists of 2 product managers to take better care of 8 products we had).
+⏫ Scaling product user-base and ARR 
 
-Data-driven product development in Diligences (company I co-founded) was about gathering quantitative metrics around feature usage or doing research before the feature is implemented. This approach helped finding out opportunities for improvement within the product and communication of it.
+⚙️ Leading research & discovery in combination with design & delivery as a coherent system
+⚙️ Leading product development and expansion via: vision -> strategy -> execution
+⚙️ Setting up modern software development approaches as Shape-up (or Agile)
+⚙️ Leading innovation process to develop an idea into a software product
+⚙️ Leading a cross-functional team with end-to-end responsibility
 
-I’m a people person as feedback that I received from engineers, designers, data scientists, marketers who worked with me is about a good atmosphere that I always try to create and maintain and dynamic environment where delivering and growing personally go hand in hand.
+📈 Creating growth models
+📈 Using marketing automation to expand reach
+📈 Increasing revenue by implementing monetization experiments
+📈 Using quantitative marketing efforts to grow an SaaS or a service
+📈 Owning end-to-end measurements to understand each step of value creation
+📈 Experimenting and discovering online channels, messaging, audience that drive growth
 
-I love to communicate complex topics with simple words and understandable, relatable stories. Got 2 trainings for public speaking from Dale Karnegie Norway and a public speaking coach in Kharkiv. Speaking 5 languages to some extent, helps in formulating thoughts in the most universal way and have a large selection of stories for different cultural contexts.
+🙋‍♂️ Tech diplomacy and advocacy
+🙋‍♂️ Communicating across global stack of stakeholders
+🙋‍♂️ Efficiently working between Scandinavian and Slavic cultures
 
-<img src="https://myreadme.vercel.app/api/embed/thegostev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+Proficient with these management and work structuring approaches:
+
+📄 EOS (Entrepreneurial Operating System)
+📄 HCD (Human Centered Design)
+📄 CMMI for Dev v.2
+📄 Dual-Track Agile
+📄 Shape-up
+📄 Scrum
+
+Industry agnostic. Worked within the following domains:
+
+- Fintech
+- Web games
+- Digital communities
+- Engineering metrics
+- Open data and GovTech
+- Online gambling (provably fair)
+- Social Networks, Online Dating
+- Blockchain, crypto, Web3, DeFi
