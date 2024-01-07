@@ -1,3 +1,9 @@
+<img src="https://myreadme.vercel.app/api/embed/thegostev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=thegostev&theme=juicyfresh&no-bg=true" />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=thegostv.thegostev)
+
 ### Hi there 👋
 
 Having years of experience creating products for developers, B2B and B2C ones.
