@@ -1,8 +1,4 @@
-<img src="https://myreadme.vercel.app/api/embed/thegostev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 <img src="https://github-profile-trophy.vercel.app/?username=thegostev&theme=juicyfresh&no-bg=true" />
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=thegostv.thegostev)
 
 ### Hi there 👋
 
@@ -19,3 +15,5 @@ Data-driven product development in Diligences (company I co-founded) was about g
 I’m a people person as feedback that I received from engineers, designers, data scientists, marketers who worked with me is about a good atmosphere that I always try to create and maintain and dynamic environment where delivering and growing personally go hand in hand.
 
 I love to communicate complex topics with simple words and understandable, relatable stories. Got 2 trainings for public speaking from Dale Karnegie Norway and a public speaking coach in Kharkiv. Speaking 5 languages to some extent, helps in formulating thoughts in the most universal way and have a large selection of stories for different cultural contexts.
+
+<img src="https://myreadme.vercel.app/api/embed/thegostev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
