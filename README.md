@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-Having years of experience creating products for developers and B2B and B2C ones.
+Having years of experience creating products for developers, B2B and B2C ones.
 
 Community building, growing and harnessing is a fantastic job product-wise (in IndyRiot I was a part of community product development). It’s even more exciting if it’s a developers community as it’s something very close to my previous experience:
-
-- At Diligences ([https://diligences.com](https://diligences.com/)) software developers we’re main users of our products and the main stakeholders as I used Product-Led Growth (PLG) framework to drive onboarding, adoption and retention.
-- At CKAN ([https://ckan.org](https://ckan.org/)) core development team drives maintenance and development of the platform (https://github.com/ckan). As a Contributing Product Manager I facilitated alignment, created vector via buy-in and worked on easier accessibility of the project for developers.
 
 Leading the product for me goes through a process of formulating or evolving product vision that influences product strategy that defines product roadmap. I have experience managing this cycle in full adding GIST framework to combine agile software development, OKR’s and flexibility in target settings.
 
