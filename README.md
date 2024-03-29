@@ -46,6 +46,7 @@ Proficient with these management and work structuring approaches:
 
 Industry agnostic. Worked within the following domains:
 
+- AI/DS
 - Fintech
 - Web games
 - Digital communities
