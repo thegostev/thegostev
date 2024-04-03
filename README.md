@@ -1,6 +1,4 @@
-<img src="https://github-profile-trophy.vercel.app/?username=thegostev&theme=juicyfresh&no-bg=true" />
-
-Product and growth leader, open-source, open data enthusiast. Over the last 10+ years I launched, managed and grew digital products. Some of them achieved 150 mln. monthly visits and > 1 mln. of active users monthly. Teams led by me launched 5 products. I usually have end-to-end responsibility in high-paced environment. Applying quantitative approach to innovation, experimenting and decision-making. Using Product-Led Growth for making business model scale. As an author published on IEEE, Hacker Noon, Agile Insider, UX Planet.
+Product and growth leader, open-source, open data enthusiast. Over the last 10+ years I launched, managed and grew digital products. Some of them achieved 150 mln. monthly visits and > 10 mln. of active users monthly. Teams led by me launched 5 products. I usually have end-to-end responsibility in high-paced environment. Applying quantitative approach to innovation, experimenting and decision-making. Using Product-Led Growth for making business model scale. As an author published on IEEE, Hacker Noon, Agile Insider, UX Planet.
 
 Vital statictics:
 
