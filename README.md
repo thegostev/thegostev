@@ -44,11 +44,12 @@ Proficient with these management and work structuring approaches:
 
 Industry agnostic. Worked within the following domains:
 
+- Developer Experience
+- Engineering metrics
+- Digital communities
+- CI/CD
 - AI/DS
 - Fintech
-- Web games
-- Digital communities
-- Engineering metrics
 - Open data and GovTech
 - Online gambling (provably fair)
 - Social Networks, Online Dating
