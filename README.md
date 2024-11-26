@@ -2,7 +2,7 @@ Product and growth leader, open-source, open data enthusiast. Over the last 10+ 
 
 Vital statictics:
 
-- Highest impact product managed: CKAN powers national data portals around the globe @ CKAN, 2023
+- Highest impact product managed: CKAN powers national data portals around the globe @ CKAN, 2024
 - Most complex product developed: engineering metrics platform for software teams @ QArea, 2021
 - Biggest product launched: online dating platform with 150 mln visits monthly @ LevelUp, 2014
 - Biggest product managed: >100 mln visits monthly for top-5 portals @ CKAN, 2023
