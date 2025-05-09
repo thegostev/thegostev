@@ -1,4 +1,6 @@
-Product and growth leader, open-source, open data enthusiast. Over the last 10+ years I launched, managed and grew digital products. Some of them achieved 150 mln. monthly visits and > 10 mln. of active users monthly. Teams led by me launched 5 products. I usually have end-to-end responsibility in high-paced environment. Applying quantitative approach to innovation, experimenting and decision-making. Using Product-Led Growth for making business model scale. As an author published on IEEE, Hacker Noon, Agile Insider, UX Planet.
+Product leader with 10+ years of experience driving DevEx transformations and building scalable systems. Shaped ML-powered developer tools handling 1B+ LOC analysis. Successfully delivered enterprise AI solutions: forecasting, recommendation, GenAI-based. Led teams through infrastructure modernization reduced onboarding time from 4 weeks to 4 days. My articles has been published in IEEE, Hacker Noon, Agile Insider, and UX Planet
+
+I have launched (zero-to-one), managed, and grown digital products with teams under my leadership. Some of these products achieved 150 million monthly visits and over 10 million monthly active users. Teams under my leadership have launched 5 products. I typically maintain end-to-end responsibility in high-paced environments, applying a quantitative approach to innovation, experimentation, and decision-making. 
 
 Vital statictics:
 
@@ -44,12 +46,12 @@ Proficient with these management and work structuring approaches:
 
 Industry agnostic. Worked within the following domains:
 
+- AI/ML/LLM
+- CI/CD
 - Developer Experience
 - Engineering metrics
-- Digital communities
-- CI/CD
-- AI/DS
 - Fintech
+- Digital communities
 - Open data and GovTech
 - Online gambling (provably fair)
 - Social Networks, Online Dating
